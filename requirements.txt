@@ -3,3 +3,4 @@ pandas==0.6.1
 xerox==0.4.1
 pyperclip3==0.4.1
 clipboard==0.0.4
+numpy==1.21.5
